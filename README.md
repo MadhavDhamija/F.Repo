@@ -1,2 +1,3 @@
 # First.Repo
-This is my first Git repositary.
+This is my First Git Repositary.
+Author - Madhav Dhamija
