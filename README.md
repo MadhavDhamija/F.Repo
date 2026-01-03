@@ -1,2 +1,2 @@
-# F.Repo
+# First.Repo
 This is my first Git repositary.
